@@ -1,0 +1,51 @@
+.A{
+    border: 10px solid black;
+    height: 500px ;
+    display: flex;
+    justify-content: flex-start;
+    width:500px;
+    align-items: flex-start;
+    flex-direction: column;
+    background-color:red;
+   
+
+} 
+.a1{
+    font-size: 30px;
+    border:5px solid black;
+    height: 200px;
+    width: 600px;
+    margin:10px;        -color: green;
+    display:flex;
+    gap:300px;
+    align-items: center;
+    /* flex-direction:row; */
+    /* background-color: antiquewhite; */
+    /* margin-bottom: 200px; */
+    /* margin-left: 200px; */
+}
+.B{
+    margin-left: 20px;
+    border:5px solid black;
+     border-radius: 100px;
+     width: 160px;
+     height:160px;
+     display:flex;
+     justify-content: center;
+     margin-top: 10px;
+     align-items: center;
+     background-color: aquamarine;
+}
+.D{
+    display: flex;
+    flex-direction: column;
+    border:10px solid blue;
+height: 20px;
+width: 100%;
+    margin: 10px;
+    justify-content: center;
+}
+.C{
+    border:5px solid black
+    
+}

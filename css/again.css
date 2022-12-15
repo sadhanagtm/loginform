@@ -1,0 +1,71 @@
+.main{
+    border: 2px solid black;
+    display: flex;
+    /* flex-direction: column; */
+    justify-content: center;
+    /* align-items: center; */
+    margin: auto; 
+    margin-top: 40px;
+    width: fit-content;
+    padding: 40px;
+    background-color :white;
+    position: relative;
+}
+ .circle{ 
+    background-image: url(../pictures/portrait.jpg);
+    background-size: 110% 100%;
+    background-repeat: no-repeat;
+    border-radius: 100px;
+    border: 2px solid black;
+    height:100px;
+    width: 100px;
+    display: flex;
+    justify-content: center;
+    position: absolute ;
+    top:-40px;
+}
+.form{
+    margin-top: 70px;
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 10px;
+}
+.form-control{
+    font-size: 20px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10px;
+    /* width: ; */
+}
+.form-control .field{
+    width: 500px;
+    height: 40px;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.form-control button{
+    font-size: 20px;
+    gap:10px;
+    display: flex;
+    height: fit-content;
+    width: fit-content;
+    justify-content: center;
+    margin-left: 40px;
+
+    
+}
+.form-control label{
+    font-weight: 20px;
+}
+.form-control input{
+    height:fit-content ;
+    width: fit-content;
+}
+
+body{
+    /* padding: 10px; */
+   background-image: url('../mountain.jpg');
+    /* background-color: bisque; */
+}

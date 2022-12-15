@@ -1,0 +1,32 @@
+.one{
+    background-image: url(../pictures/cloud.jpg);
+    background-repeat: no repeat;
+     background-size: cover;
+    border:5px solid blue;
+    background-color: lightslategray; 
+}
+.two{
+    border: 2px solid rgb(25, 27, 27);
+    font-size: 40px;
+    text-shadow: 20px black; 
+    text-align: center;
+    padding: 10px;
+    display: flex;
+    align-items:center;
+    background-color: lightgrey;
+    width: 30%;
+    margin: 10px;
+
+}
+.aribt{
+    border:5x solid black;
+    font-size: 55px;
+    color: blue skyblue;
+    margin: 20px;
+padding: 10px;
+}
+.three{
+    margin-left: 30px;
+    font-size: 20px;
+
+}

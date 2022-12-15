@@ -1,0 +1,30 @@
+.eye{
+    
+    width:fit-content;
+    height:20;
+    background-color: rosybrown;
+     font-style:italic ;
+     padding:10;
+     
+}
+.nose{
+    background-color: whitesmoke;
+    margin-top: 20px;
+    padding: 50px;
+     font-style:italic;
+
+
+}
+.pp{
+    text-shadow:10px 10px 10px blue;
+    font-size:15px;
+    font-weight:70px;
+    font-style:italic;
+    padding:30;
+}
+h1{
+
+
+    margin: 10px;
+    font-weight:500;
+}

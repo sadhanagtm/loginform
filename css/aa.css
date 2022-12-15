@@ -1,0 +1,39 @@
+.one{
+    border-top:20px solid blue;
+    border-bottom: 20px solid yellowgreen;
+    border-left: 20px solid pink;
+
+border-right: 20px solid chocolate; 
+    text-transform: uppercase;
+    height: fit-content;
+    /* border-bottom: 10px solid blue; */
+     /* border:none dotted red */
+     border-radius:10px;
+     margin:auto;
+     padding:70px;
+     text-align:center;
+
+}
+.two{
+    height: 500px;
+    width: 500px;
+    border: 10px solid black;
+    display:flex;
+    /* justify-content:space-around;
+     */
+     gap: 200px;
+    align-items: center;
+    flex-direction: column;
+}
+.three{
+    height:100px;
+    width: 100px;
+    border:10px solid yellow;
+
+}
+.four{
+    height:100px;
+    width:50px;
+    background-color:paleturquoise;
+
+}

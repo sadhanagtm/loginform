@@ -1,0 +1,31 @@
+.one{ 
+    font-size:20px;
+    color:black;
+    background-color:burlywood;
+    margin: 10px;
+    text-shadow:10px 10px 10px green   ;
+
+}
+.two{
+    background-color:burlywood;
+    margin: 10px;
+    padding: 10px;
+    font-size: 20px;
+    text-shadow: 10px 10px 10px green ;
+
+}
+.h3{
+    padding:20px;
+    margin-left: 30px;
+}
+.hi{
+    font-style:normal;
+    margin: 50px;
+width: 400px;
+    font-weight: 40px;
+    font-size:50px ;
+    box-shadow: 1px 1px 10px blue;
+}
+
+
+    
