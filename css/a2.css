@@ -1,0 +1,34 @@
+.one{
+    /* border: 2px solid black; */
+    background-color: antiquewhite;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    height: 50px;
+    padding: 0px 6px;
+}
+
+
+.two{
+    background-color: aliceblue;
+    border:2px solid grey;
+    height: 30px;
+    width: 30px;
+    border-radius: 30px;
+    display: flex;
+justify-content: center;
+
+}
+.three{
+    
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    /* justify-content: ; */
+}
+a{
+    text-decoration: none;
+    color: grey;
+}
+

@@ -1,0 +1,80 @@
+
+.upper{
+    background-color: brown;
+    
+
+}
+.upper1{
+    display: flex;
+    flex-direction: row;
+    /* width: 300px; */
+    gap: 10px;
+}
+.image1{
+    /* border: 1px solid black; */
+    background-image: url(../pictures/phone.jpg);
+    /* background-position:contain; */
+    background-repeat: no-repeat;
+    background-size: contain;
+    height: 20px;
+    width: 20px;
+}
+.image2{
+    /* border:1px solid black ; */
+    background-image: url(../pictures/email3.jpg);
+    background-size:contain;
+    height:20px ;
+    width:20px;
+}
+.upper2{
+    display: flex;
+    flex-direction: row;
+justify-content: end;
+margin-left: 300px;
+    gap:10px;    
+    /* border: 1px solid greenyellow; */
+    /* width: 500px; */
+}
+.lower{
+    display: flex;
+    flex-direction: row;
+    height: 50px;
+    background-color: aliceblue;
+    align-items: center;
+    gap: 20px;
+    box-shadow: 15px 15px 15px rgb(209, 203, 203);
+}
+.image3{
+    height: 35px;
+    width:60px;
+margin-left: 50px;   
+background-image: url(../pictures/aribt.jpg); 
+background-size: contain;
+background-repeat: no-repeat;
+}
+.lowerright{
+    display:flex ;
+margin-left:200px;
+gap: 20px;
+}
+.op{
+    border: 2px solid grey;
+    margin-left: 130px;
+    border-radius: 15px;
+    background-color: black;
+    height: 20px;
+    width: 150px;
+    display: flex;
+    justify-content: center;
+
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+.lowerright a{
+    color: black;
+    font-size: 16px;
+}
+
+
